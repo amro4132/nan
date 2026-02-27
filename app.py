@@ -97,4 +97,4 @@ if __name__ == '__main__':
     log(f"🚀 تشغيل السيرفر على المنفذ {port}")
     log(f"📡 Discord Webhook: {DISCORD_WEBHOOK[:50]}...")
     log(f"📍 نقطة النهاية: http://localhost:{port}/api/data")
-    app.run(host='0.0.0.0', port=port, debug=True) هاذا سكربت السيرفر اجعله لمن تصله المعامت يرتبها و يرسلها
+    app.run(host='0.0.0.0', port=port, debug=True) 
