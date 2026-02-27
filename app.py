@@ -12,7 +12,7 @@ app = Flask(__name__)
 # =====================================================================
 # إعدادات Discord - ضع رابط الويب هوك الخاص بك هنا
 # =====================================================================
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1475936688009252866/Ytum84whqesL_CHXK0raRgQQlDtahbLwvCsvQncGOYHqiWCCSEoaZEk9HHvM9W767bA4"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1477005798855933965/UGo7IuLJ2B-cp00CizKypWijgIOs5_95klXi75FyNw9C0xKSDchP-8Om5kDSRHIoaVbe"
 
 # =====================================================================
 # سجل بسيط للعرض
