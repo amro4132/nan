@@ -9,7 +9,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # ==================== إعدادات Discord ====================
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1477028807960432722/1R2rFE6rNx4dzYBBPJuoBV22YMuCypze7NAKa7hun2r_AxIAqGN8DP8Ew555v3nxGtkO"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1477005798855933965/UGo7IuLJ2B-cp00CizKypWijgIOs5_95klXi75FyNw9C0xKSDchP-8Om5kDSRHIoaVbe"
 
 # ==================== صفحة رئيسية ====================
 @app.route('/', methods=['GET'])
